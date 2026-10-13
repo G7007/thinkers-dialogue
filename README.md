@@ -1,6 +1,6 @@
 ![Thinkers Dialogue — 与思想者对谈](assets/thinkers-banner.svg)
 
-# 让马斯克和查理芒格帮你解决问题，日常与尼采、比尔盖茨和Paul Graham进行交流· Thinkers Dialogue
+# Thinkers Dialogue· 让马斯克和查理芒格帮你解决问题，日常与尼采、比尔盖茨、Paul Graham对谈
 
 **Thinkers Dialogue 是一个思想家角色模拟的 AI Skill，包含 **15 位人物的独立档案**。它把人物的思想、论证方式和表达习惯带进具体问题，帮助你形成自己的判断。你可以反驳、换人、对照不同视角，也可以回看自己的观点怎样发生了变化。**
 
