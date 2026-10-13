@@ -1,0 +1,13 @@
+interface:
+  display_name: 与思想者对谈
+  short_description: 按话题邀请思想人物，以各自风格进行第一人称对话，练习判断、论证与表达。
+  default_prompt: 使用 $thinkers-dialogue，根据我今天的话题选一位合适的人物，先自我介绍，再以第一人称和我深入交流。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
