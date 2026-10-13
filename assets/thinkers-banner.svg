@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Thinkers Dialogue — 与思想者对谈</title>
+  <desc id="desc">把一个想不清楚的问题，带进一场与思想者的对谈。十五位人物，有来源的档案，中文优先。</desc>
+  <rect width="1280" height="360" rx="24" fill="#F4F0E7"/>
+  <circle cx="1122" cy="164" r="136" fill="#E7DED0"/>
+  <circle cx="1122" cy="164" r="100" fill="#D3E1D6"/>
+  <path d="M1100 120h-46v54h25c-2 23-14 38-30 50l14 16c26-17 37-40 37-73zM1180 120h-46v54h25c-2 23-14 38-30 50l14 16c26-17 37-40 37-73z" fill="#163631"/>
+  <rect x="48" y="46" width="184" height="28" rx="14" fill="#163631"/>
+  <text x="140" y="65" font-family="Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="2" fill="#F4F0E7">A DIALOGUE SKILL</text>
+  <text x="48" y="146" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#163631">Thinkers Dialogue</text>
+  <text x="51" y="204" font-family="Arial,sans-serif" font-size="30" fill="#163631">A new perspective on your question.</text>
+  <text x="51" y="246" font-family="Arial,sans-serif" font-size="20" fill="#58665B">Philosophy. Society. Judgment. Building.</text>
+  <path d="M51 287h888" stroke="#C7CDBF" stroke-width="1"/>
+  <text x="51" y="321" font-family="Arial,sans-serif" font-size="15" letter-spacing="1" fill="#58665B">15 PERSONAS  ·  SOURCE-GROUNDED PROFILES  ·  CHINESE-FIRST</text>
+</svg>
